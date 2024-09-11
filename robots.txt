@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olantrals.github.io/sitemap.html.gz
+Sitemap: https://olantrals.github.io/app/sitemap.html.gz
+Sitemap: https://olantrals.github.io/assets/sitemap.html.gz
+Sitemap: https://olantrals.github.io/css/sitemap.html.gz
+Sitemap: https://olantrals.github.io/includes/sitemap.html.gz
+Sitemap: https://olantrals.github.io/item/sitemap.html.gz
+Sitemap: https://olantrals.github.io/src/sitemap.html.gz
